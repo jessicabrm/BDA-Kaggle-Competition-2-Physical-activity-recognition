@@ -1,0 +1,1 @@
+# BDA-Kaggle-Competition-2-Physical-activity-recognition
